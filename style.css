@@ -1,0 +1,36 @@
+header, footer{
+    background-color:#eeac55;
+}
+header{
+    min-height: 135px;
+}
+
+ul.nav{
+    padding-left:20px;
+}
+
+/*.home-hero{
+    max-width: 1000px;
+    background: cornsilk;
+    padding: 40px;
+}*/
+
+.footer-details{
+    background-color: #eeac55;
+}
+
+.footer-details p{ 
+    margin-bottom:0;
+    
+}
+
+
+.home-banner{
+    background-image: url('images/pets-banner1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 720px;
+}
+.home-banner .container{
+
+}
