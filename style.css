@@ -48,4 +48,14 @@ ul.nav{
 .home-banner h1.display-5 {
     font-size: 45px !important;
     margin-bottom: 40px !important;
+} 
+
+.aboutcarousel h1, .aboutcarousel p {
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.aboutcarousel p {
+    font-size: 20px;
+
 }
