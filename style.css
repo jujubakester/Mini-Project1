@@ -24,13 +24,28 @@ ul.nav{
     
 }
 
-
 .home-banner{
     background-image: url('images/pets-banner1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 720px;
 }
-.home-banner .container{
 
+.home-banner .lead{
+    margin-bottom: 0;
+    
+}
+
+.home-banner .btn{
+    margin-top: 20px;
+    
+}
+
+.home-banner *{
+    font-family: cursive;
+}
+
+.home-banner h1.display-5 {
+    font-size: 45px !important;
+    margin-bottom: 40px !important;
 }
